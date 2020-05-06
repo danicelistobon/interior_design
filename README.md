@@ -20,3 +20,6 @@
 
 ### [Cielo Rosa](https://github.com/danicelistobon/interior_design/tree/master/cielo_rosa)
 <img align="center" src="https://raw.githubusercontent.com/danicelistobon/interior_design/master/cielo_rosa/cielo_rosa_1.jpg" width="70%"/>
+
+## :octocat: Author
+Daniel Celis Tobon [Github](https://github.com/danicelistobon) | [Twitter](https://twitter.com/danicelistobon)
